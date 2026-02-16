@@ -1,5 +1,3 @@
-# AI_engineering_week_6_assigment
-
 **Assignment: Fine-Tune a Small LLM for Better Function Calling – Agentic Assistant Edition**
 
 **Goal:** Fine-tune a small open-source LLM to improve its ability to decide when to call tools (functions) in JSON format vs. responding directly. This makes it more "agentic" – e.g., using a calculator tool for math instead of guessing. You'll measure success with a simple accuracy score and experiment with hyperparameters.
